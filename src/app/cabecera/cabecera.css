@@ -1,0 +1,16 @@
+nav{
+    background-color: rgb(255, 0, 132);
+}
+.nav-link{
+    color: rgb(16, 12, 12);
+}
+.btn-primary{
+    background-color: rgb(242, 242, 146) ;
+    border-color:rgb(242, 242, 146) ;
+    color: black;
+}
+.btn-primary:focus{
+    background-color: rgb(245, 214, 131);
+    border-color:rgb(245, 214, 131) ;
+
+}
